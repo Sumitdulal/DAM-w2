@@ -1,0 +1,4 @@
+#Wed Apr 06 01:24:32 NPT 2022
+base.0=C\:\\Users\\User\\AndroidStudioProjects\\DMA-lab2\\Hello Toast Relative Layout\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
